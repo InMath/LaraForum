@@ -1,4 +1,4 @@
-## Laravel PHP Framework
+## LaraForum 这是一个用Laravel框架写成的论坛项目，用来熟悉Laravel框架
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
@@ -20,4 +20,4 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 ### License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+本项目采用  [MIT license](http://opensource.org/licenses/MIT)，大家可以自由下载使用学习
