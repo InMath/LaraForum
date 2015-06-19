@@ -1,4 +1,4 @@
-<?php namespace App\Commands;
+<?php namespace LaraForum\Commands;
 
 abstract class Command {
 

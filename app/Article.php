@@ -1,4 +1,4 @@
-<?php namespace App;
+<?php namespace LaraForum;
 
 use Illuminate\Database\Eloquent\Model;
 

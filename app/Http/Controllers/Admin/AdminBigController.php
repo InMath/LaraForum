@@ -1,7 +1,7 @@
-<?php namespace App\Http\Controllers\Admin;
+<?php namespace LaraForum\Http\Controllers\Admin;
 
-use App\Http\Requests;
-use App\Http\Controllers\Controller;
+use LaraForum\Http\Requests;
+use LaraForum\Http\Controllers\Controller;
 
 use Illuminate\Http\Request;
 

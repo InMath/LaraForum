@@ -1,6 +1,6 @@
-<?php namespace App\Services;
+<?php namespace LaraForum\Services;
 
-use App\User;
+use LaraForum\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 

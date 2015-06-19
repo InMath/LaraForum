@@ -139,11 +139,11 @@ return [
 		/*
 		 * Application Service Providers...
 		 */
-		'App\Providers\AppServiceProvider',
-		'App\Providers\BusServiceProvider',
-		'App\Providers\ConfigServiceProvider',
-		'App\Providers\EventServiceProvider',
-		'App\Providers\RouteServiceProvider',
+		'LaraForum\Providers\AppServiceProvider',
+		'LaraForum\Providers\BusServiceProvider',
+		'LaraForum\Providers\ConfigServiceProvider',
+		'LaraForum\Providers\EventServiceProvider',
+		'LaraForum\Providers\RouteServiceProvider',
 
 	],
 
